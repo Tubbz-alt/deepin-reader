@@ -21,16 +21,17 @@ BuildRequires: pkgconfig(dtkwidget)
 BuildRequires: pkgconfig(dtkgui)
 BuildRequires: pkgconfig(dtkcore)
 BuildRequires: pkgconfig(x11)
+BuildRequires: pkgconfig(ddjvuapi)
 
 # BuildRequires: qt5-qtbase-devel
 # BuildRequires: dtkwidget-devel
 BuildRequires: kf5-karchive-devel
 # BuildRequires: qt5-linguist
-BuildRequires: poppler-qt5
+# BuildRequires: poppler-qt5
 BuildRequires: poppler-qt5-devel
 # BuildRequires: poppler
 # BuildRequires: poppler-devel
-BuildRequires: djvulibre-devel
+# BuildRequires: djvulibre-devel
 # BuildRequires: djvulibre-libs
 BuildRequires: libspectre-devel
 # BuildRequires: libspectre
