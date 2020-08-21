@@ -21,7 +21,7 @@ BuildRequires: pkgconfig(dtkwidget)
 BuildRequires: pkgconfig(dtkgui)
 BuildRequires: pkgconfig(dtkcore)
 BuildRequires: pkgconfig(x11)
-BuildRequires: pkgconfig(ddjvuapi)
+BuildRequires: pkgconfig(djvulibre)
 
 # BuildRequires: qt5-qtbase-devel
 # BuildRequires: dtkwidget-devel
